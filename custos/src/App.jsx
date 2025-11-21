@@ -1,0 +1,1 @@
+import React from 'react'; import KpiCard from './components/KPI/KpiCard'; export default function App() { return <div><KpiCard /></div>; }
