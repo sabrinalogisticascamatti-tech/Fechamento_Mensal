@@ -1,0 +1,1 @@
+export const ACCOUNT_PLAN_MAP = { '01.01': 'RECEITA BRUTA' };
